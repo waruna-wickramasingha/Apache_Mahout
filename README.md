@@ -29,7 +29,9 @@ Building a service to get recommendations
 1 Get Twisted, and Klein and Redis modules for Python.
 
 sudo easy_install twisted
+
 sudo easy_install klein
+
 sudo easy_install redis
 
 2 Install Redis and start up the server.

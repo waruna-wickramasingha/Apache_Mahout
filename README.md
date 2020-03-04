@@ -1,4 +1,4 @@
-# Apache_Mahout
+# Apache Mahout recommendation 
 
 Steps followed (as per https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/)
 

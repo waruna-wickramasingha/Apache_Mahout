@@ -1,5 +1,7 @@
 # Apache Mahout recommendation 
 
+link to the Demo video : https://drive.google.com/file/d/1ZCXILVvuka36T7Z05e684GPvPKM2XQJN/view?usp=sharing
+
 Steps followed (as per https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/)
 
 1 first crated an EMR Cluster with default settings.
